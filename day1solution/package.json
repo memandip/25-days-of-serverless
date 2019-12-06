@@ -1,0 +1,9 @@
+{
+  "name": "serverless-dreidel",
+  "version": "1.0.0",
+  "description": "A simple http web server to spin a dridel and return a random value.",
+  "main": "index.js",
+  "keywords": ["serverless", "challenge", "dridels"],
+  "author": "Mandip Chaudhary",
+  "license": "ISC"
+}
